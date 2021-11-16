@@ -16,7 +16,7 @@ const Books = ({ books }) => {
   return (
     <div>
       <Head>
-        <title>Books | Meer Bahadin</title>
+        <title>drey | Books </title>
         <meta
           name="description"
           content="A list of my favorite development books"

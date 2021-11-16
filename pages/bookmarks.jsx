@@ -33,7 +33,7 @@ const Bookmarks = ({ bookmarksData }) => {
   return (
     <div>
       <Head>
-        <title>Bookmarks | Meer Bahadin</title>
+        <title>drey | Bookmarks</title>
         <meta
           name="description"
           content="A list of my favorite articles & websites, updated weekly."
