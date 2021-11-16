@@ -35,10 +35,6 @@ const extraLinks = [
     name: "Books",
     route: "/books",
   },
-  {
-    name: "Blog",
-    route: "/blog",
-  },
 ];
 
 const Navbar = () => {
