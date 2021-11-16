@@ -30,7 +30,7 @@ const Timeline = () => {
         </ListItem>
         <ListItem>
           <ListIcon as={MdCheckCircle} color="green.500" />
-          Undergraduate from College
+          Undergraduate College
         </ListItem>
       </List>
     </SlideFade>

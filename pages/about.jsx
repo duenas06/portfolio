@@ -12,6 +12,7 @@ import {
 } from "@chakra-ui/react";
 import Paragraph from "components/Paragraph";
 import { useState } from "react";
+import Image from "next/image";
 
 const About = () => {
   const [show, setShow] = useState(false);
@@ -58,6 +59,7 @@ const About = () => {
       <main>
         <Container maxW="container.lg" mt={10}>
           <SlideFade in={true} offsetY={80}>
+    
             <Box>
               <Heading
                 as="h1"
